@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MappingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-26T08:05:13" hostname="DESKTOP-MDCOB0G" time="0.382">
+  <properties/>
+  <testcase name="test_adapt_customerDto_to_customerEntity()" classname="MappingTest" time="0.382"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
